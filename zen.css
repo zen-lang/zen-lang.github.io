@@ -135,14 +135,6 @@ img, video {
   font-weight: 700;
 }
 
-.c-1023002464 {
-  color: rgba(226,232,240,var(--text-opacity));
-  --text-opacity: 1;
-  bold: nil;
-  margin-left: 0.25rem;
-  margin-right: 0.25rem;
-}
-
 .c-193469391 {
   color: rgba(221,107,32,var(--text-opacity));
   --text-opacity: 1;
